@@ -4,7 +4,7 @@
   "description": "Interactive worldmap of visa-free travel using Three.js and D3.js",
   "author": "Markus Lerner <m@markuslerner.com>",
   "engines": {
-    "node": "9.6.1",
+    "node": "22.x",
     "npm": ">=4.1.1"
   },
   "scripts": {
